@@ -28,3 +28,8 @@ More things
 ## Chapter 6
 
 Add some stuff.
+
+
+## Chapter 7 
+
+This Chapter was contributed from an fork.
