@@ -3,7 +3,7 @@
 
 Lorem Ipsum
 
-# Chapter 1
+## Chapter 1
 
 Dolor amid
 
