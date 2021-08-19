@@ -8,3 +8,7 @@ Lorem Ipsum
 Dolor amid
 
 ## Chapter 2
+
+## Chapter 3
+
+This is some more text
