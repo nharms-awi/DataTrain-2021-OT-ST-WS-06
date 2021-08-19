@@ -12,3 +12,7 @@ Dolor amid
 ## Chapter 3
 
 This is some more text
+
+## Chapter 4
+
+Some good ideas
