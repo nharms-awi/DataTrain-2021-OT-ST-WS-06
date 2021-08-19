@@ -22,4 +22,6 @@ Some good ideas
 ## Chapter 5
 
 Write lines. Another thingy.
-Something else
+Something else.
+More things
+
